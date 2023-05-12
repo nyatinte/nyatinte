@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nyatinte</h1>
 <h3 align="center">A Apprentice engineer college student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyatinte&label=Profile%20views&color=0e75b6&style=flat" alt="nyatinte" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyatinte" alt="nyatinte" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nichi_pro_" target="blank"><img src="https://img.shields.io/twitter/follow/nichi_pro_?logo=twitter&style=for-the-badge" alt="nichi_pro_" /></a> </p>
 
 - 🌱 I’m currently learning **WebDev (especially Next.js), DataScience**
 
 - 📝 I regularly write articles on [https://zenn.dev/nyatinte](https://zenn.dev/nyatinte)
 
 - 📫 How to reach me **https://twitter.com/nichi_pro_**
+
+- 🐧 [My works](#my-works)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
