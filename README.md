@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/nyatinte](https://zenn.dev/nyatinte)
 
-- 📫 How to reach me **https://twitter.com/nichi_pro_**
+- 📫 How to reach me **https://twitter.com/nyatinte**
 
 - 🐧 [My works](#my-works)
 
