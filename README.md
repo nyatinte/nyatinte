@@ -61,4 +61,4 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyatinte&" alt="nyatinte" /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyatinte&" alt="nyatinte" /></div>
