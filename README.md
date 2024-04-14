@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/nyatinte](https://zenn.dev/nyatinte)
 
-- 📫 How to reach me **https://twitter.com/nyatinte**
+- 📫 How to reach me **https://x.com/nyatinte**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
