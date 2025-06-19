@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nyatinte</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="center">
+<strong>Pronunciation:</strong><br>
+🇯🇵 Japanese: にゃちんて / にちんて<br>
+🇺🇸 English: /ˈnjɑːtɪnti/ (NYAH-tin-tee)
+</p>
+
 
 - 🌱 I’m currently learning **WebDevelopment, DataScience**
 
