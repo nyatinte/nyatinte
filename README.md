@@ -69,6 +69,10 @@
 <a title="Install ccusage Raycast Extension" href="https://www.raycast.com/nyatinte/ccusage"><img src="https://www.raycast.com/nyatinte/ccusage/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 </p>
 
+<p align="left">
+<a href="https://github.com/nyatinte/claude-code-explorer">Claude Code Explorer</a> - A tool for exploring and understanding code with Claude
+</p>
+
 ###
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyatinte&" alt="nyatinte" /></div>
