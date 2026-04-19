@@ -73,6 +73,11 @@
 <a href="https://github.com/nyatinte/claude-code-explorer">Claude Code Explorer</a> - A tool for exploring and understanding code with Claude
 </p>
 
+<p align="left">
+<a href="https://github.com/nyatinte/prw">prw</a> - Interactive CLI for running scripts across pnpm workspaces
+</p>
+
+
 ###
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyatinte&" alt="nyatinte" /></div>
