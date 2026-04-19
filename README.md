@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nyatinte</h1>
+<h1 align="center">Hi, I'm Nyatinte　🐧</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **WebDevelopment, DataScience**
+- 💡 I like **AI, web development, and modern toolchains**
 
 - 📝 I regularly write articles on [https://zenn.dev/nyatinte](https://zenn.dev/nyatinte)
 
